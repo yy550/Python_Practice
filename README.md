@@ -6,4 +6,4 @@
   - [Using Arrays and Performing Operations](https://github.com/yy550/Python_Practice/blob/main/NumPy%20Assignment%201.pdf)
 - <b>Pandas</b>
   - [Data Cleaning, Dataframes, and Data Visualization](https://github.com/yy550/Python_Practice/blob/main/Pandas%20Assignment.ipynb%20-%20201.pdf)
-    
+- <b>System Administrators: Experience vs. Training (Logistical Regression)</b>
